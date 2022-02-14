@@ -1,0 +1,1 @@
+98 3600 IN PTR blah.foo.com.

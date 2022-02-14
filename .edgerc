@@ -1,0 +1,5 @@
+[default]
+client_secret = your_akamai_client_secret
+host = your_akamai_api_host
+access_token = your_akamai_access_token
+client_token = your_akamai_client_token
